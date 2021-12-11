@@ -1,15 +1,15 @@
 # Online_Shoppers_Behavior
 
 
-# Overview:
+#### Overview:
 The main objective revolved around the identification of key metrics which contributes the most towards predicting a shopper's behavior and to suggest prioritized critical recommendations and performance improvements on the same. 
 
-# problem statment:
+### Problem statment:
 Revenue is the attribute of interest which identifies if a purchase was made or not
-# Data Description:
+### Data Description:
 As stated above, our dataset has 10 numerical features and 8 categorical features. 
 
-# Column Descriptions:
+### Column Descriptions:
  * Administrative: This is the number of pages of this type (administrative) that the user visited.
 *Administrative_Duration: This is the amount of time spent in this category of pages.
 *Informational: This is the number of pages of this type (informational) that the user visited.
@@ -21,6 +21,6 @@ As stated above, our dataset has 10 numerical features and 8 categorical feature
 *PageValues: The average value of the page averaged over the value of the target page and/or the completion of an eCommerce transaction.
 
 
-# Tools:
+### Tools:
 *Libraries : Pandas , NumPy , Matplotlib ,seaborn ,Scikit-learn.
 *Technologys: Jupyter notebook to execute the code. 
