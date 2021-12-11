@@ -7,7 +7,7 @@ The main objective revolved around the identification of key metrics which contr
 ### Problem statment:
 Revenue is the attribute of interest which identifies if a purchase was made or not
 ### Data Description:
-As stated above, our dataset has 10 numerical features and 8 categorical features. 
+ our dataset has 10 numerical features and 8 categorical features. 
 
 ### Column Descriptions:
 * Administrative: This is the number of pages of this type (administrative) that the user visited.
@@ -18,7 +18,7 @@ As stated above, our dataset has 10 numerical features and 8 categorical feature
 * ProductRelated_Duration: This is the amount of time spent in this category of pages.
 * BounceRates: The percentage of visitors who enter the website through that page and exit without triggering any additional tasks.
 * ExitRates: The percentage of pageviews on the website that end at that specific page.
-* PageValues: The average value of the page averaged over the value of the target page and/or the completion of an eCommerce   transaction.
+* PageValues: The average value of the page averaged over the value of the target page and/or the completion of an E-commerce   transaction.
 
 
 ### Tools:
