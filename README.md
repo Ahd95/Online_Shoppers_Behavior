@@ -1,9 +1,6 @@
 # Online Shoppers Behavior
 
 
-### Overview:
-The main objective revolved around the identification of key metrics which contributes the most towards predicting a shopper's behavior and to suggest prioritized critical recommendations and performance improvements on the same. 
-
 ### Business Problem:
 A shopping website receives more clicks than sales, with fewer potential customers. That means they don't attract their target market, and they must adapt their marketing strategies to boost sales.
 
